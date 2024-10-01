@@ -17,9 +17,6 @@ email: jnjsoft.web@gmail.com
 cd "/Users/youchan/Local Sites/wp-jnjsoft-learn/app/public"
 rmdir /s /q "wp-content/themes/twentytwentythree"
 rmdir /s /q "wp-content/themes/twentytwentytwo"
-
-copy "C:/Users/Jungsam/Local Sites/ilmac/app/public/.gitignore" "/Users/youchan/Local Sites/wp-jnjsoft-learn/app/public/.gitignore"
-
 ```
 
 ### 수정
