@@ -1,0 +1,15 @@
+wp-admin/
+wp-includes/
+
+plugins/
+uploads/
+themes/twentytwentyfour/
+
+wp-config.php
+
+# secret
+.env
+_secrets/
+
+# mac
+*.DS_Store
